@@ -1,11 +1,7 @@
 add and remove users.
 change the roles
-closing
+closing the database connection
 
-change1
-<<<<<<< HEAD
-change2 in my database
-=======
+change 1
 change2 in hrshs stuff.
->>>>>>> feature4
 
