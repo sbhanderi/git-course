@@ -3,5 +3,9 @@ change the roles
 closing
 
 change1
+<<<<<<< HEAD
 change2 in my database
+=======
+change2 in hrshs stuff.
+>>>>>>> feature4
 
